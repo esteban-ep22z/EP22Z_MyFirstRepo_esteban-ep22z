@@ -1,7 +1,7 @@
 #EP22Z_MyFirstRepo_esteban-ep22z
 ## Lab 1 :astronaut:
 For ISC-4221
-I learned a lot from reading through the markdown formatting: [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)\
+I learned a lot from reading through the markdown formatting: [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 > Just reading through each section was greatly beneficial to understanding different manners I could edit the mark down files\
 
 
