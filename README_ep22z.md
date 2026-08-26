@@ -1,5 +1,5 @@
 ## Lab 1 :astronaut:
-###**_For ISC-4221_**  
+**_For ISC-4221_**  
 I learned a lot from reading through the markdown formatting: [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 > Just reading through each section was greatly beneficial to understanding different manners I could edit the mark down files\
 I also learned about the separation between your personal device and the git hub cloud. I was a little confused on why git was helpful but its collaborative features and it's commit feature to go back to old drafts makes me understand why its so helpful.
